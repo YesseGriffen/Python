@@ -10,7 +10,7 @@ def prime(n):
     return True
 
 
-def find_prime(n):
+def findPrime(n):
     count = 0
     num = 2  
     while count < n:
@@ -22,4 +22,4 @@ def find_prime(n):
 
 
 n = int(input())
-print(find_prime(n))
+print(findPrime(n))

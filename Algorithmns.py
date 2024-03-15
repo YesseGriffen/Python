@@ -30,7 +30,7 @@ def insertionSort(arr):
 
 
 
-#Cant get iters with recursive without another function or something similiar 
+#Need to work on printing iters to compare with other sorts.
 def mergeSort(arr):
     if len(arr) > 1:
         mid = len(arr) // 2

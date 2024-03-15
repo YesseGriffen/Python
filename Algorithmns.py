@@ -2,7 +2,6 @@
 
 #Sorting Algorthims
 dArr = [4, 2, 0, 5, 1, 7, 8, 3, 1, 8, 5]
-#Sorting Method bubble or use sorted() like sortedArr = sorted(unsortedArr)
 #Bubblesort basically swaps the positions of the biggest numbers so they appear at the end, bubbling up.
 def bubbleSort(arr):
     iters = 0

@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 import pytesseract
 from screeninfo import get_monitors
-#could work with hashes for id specific
+
 
 #Capture area on desktop through PIL ImageGrab 
 #Using pyTesseract try to find numbers in the image and process it into data
